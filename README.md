@@ -32,7 +32,7 @@ Aegis is a premium, real-time emergency response platform designed to bridge the
 
 ## Architecture
 
-![Aegis System Design](./SafeTrail.png)
+![Aegis System Design](./Aegis_System_Design.jpeg)
 
 ##  Project Structure
 
